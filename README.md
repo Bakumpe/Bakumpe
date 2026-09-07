@@ -13,7 +13,7 @@
 - <img src="assets/fiat.jpg" width="24" height="24" alt="Fiat Technologies logo" style="vertical-align:middle;"> **Founder & CEO** of **[Fiat Technologies](https://fiattechnologies.com)** — a Uganda-based technology group building real estate, community, and location-discovery apps
 - <img src="assets/fyndars.jpg" width="24" height="24" alt="Fyndars logo" style="vertical-align:middle;"> **Team Lead**, **[Fyndars](https://fyndars.com)** — connecting people to verified properties and trusted real estate professionals
 - <img src="assets/mysemester.png" width="24" height="24" alt="MySemester logo" style="vertical-align:middle;"> **Team Lead**, **[MySemester](https://fiattechnologies.com/projects/mysem)** — turns a school's static Excel timetable into a living, tappable calendar
-- <img src="assets/vibesatalas.jpg" width="24" height="24" alt="Vibe Atlas logo" style="vertical-align:middle;"> **Team Lead**, **Vibe Atlas** — find the vibe, anywhere, everywhere
+- <img src="assets/vibesatalas.jpg" width="24" height="24" alt="Vibe Atlas logo" style="vertical-align:middle;"> **Team Lead**, **[Vibe Atlas](https://fiattechnologies.com/projects)** — find the vibe, anywhere, everywhere
 - <img src="assets/location.jpg" width="18" alt="Location pin" style="vertical-align:middle;"> Kampala, Uganda
 - 📫 Reach me at **[bakumpejoseph@gmail.com](mailto:bakumpejoseph@gmail.com)**
 
