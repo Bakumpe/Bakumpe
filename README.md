@@ -1,6 +1,6 @@
 <h1 align="center">Lukwago Joseph Bakumpe</h1>
 
-<h3 align="center">Founder & CEO @ Fiat Technologies Limited — building apps that solve real problems in Uganda and beyond</h3>
+<h3 align="center">Founder & CEO @ Fiat Technologies Limited building apps that solve real problems in Uganda and beyond</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bakumpe&label=Profile%20views&color=0e75b6&style=flat" alt="Bakumpe" />
