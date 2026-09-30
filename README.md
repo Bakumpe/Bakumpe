@@ -1,6 +1,6 @@
 <h1 align="center">Lukwago Joseph Bakumpe</h1>
 
-<h3 align="center">Founder & CEO @ Fiat Technologies Limited building apps that solve real problems in Uganda and beyond</h3>
+<h3 align="center"> @ Fiat Technologies Limited building apps that solve real problems in Uganda and beyond</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bakumpe&label=Profile%20views&color=0e75b6&style=flat" alt="Bakumpe" />
@@ -10,7 +10,7 @@
 
 ### About Me
 
-- <img src="assets/fiat.jpg" width="24" height="24" alt="Fiat Technologies logo" style="vertical-align:middle;"> **Founder & CEO** of **[Fiat Technologies](https://fiattechnologies.com)** — a Uganda-based technology group building real estate, community, and location-discovery apps
+- <img src="assets/fiat.jpg" width="24" height="24" alt="Fiat Technologies logo" style="vertical-align:middle;"> **Product Manager** of **[Fiat Technologies](https://fiattechnologies.com)** — a Uganda-based technology group building real estate, community, and location-discovery apps
 - <img src="assets/fyndars.jpg" width="24" height="24" alt="Fyndars logo" style="vertical-align:middle;"> **Team Lead**, **[Fyndars](https://fyndars.com)** — connecting people to verified properties and trusted real estate professionals
 - <img src="assets/mysemester.png" width="24" height="24" alt="MySemester logo" style="vertical-align:middle;"> **Team Lead**, **[MySemester](https://fiattechnologies.com/projects/mysem)** — turns a school's static Excel timetable into a living, tappable calendar
 - <img src="assets/vibesatalas.jpg" width="24" height="24" alt="Vibe Atlas logo" style="vertical-align:middle;"> **Team Lead**, **[Vibe Atlas](https://fiattechnologies.com/projects)** — find the vibe, anywhere, everywhere
